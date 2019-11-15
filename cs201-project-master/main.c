@@ -1,4 +1,4 @@
-/*Savannah Campbell sjcampbell3@crimson.ua
+/*Savannah Campbell sjcampbell3@crimson.ua.edu
 The main controls the game mode and user menu for Connect 4!*/
 #include <stdio.h>
 #include <ctype.h>
